@@ -1,0 +1,6 @@
+{
+  "name": "Raso Nogori - Warisan Masakan Negeri Sembilan",
+  "description": "Koleksi digital masakan, kuih-muih tradisional, cerito warisan & budaya Adat Perpatih Negeri Sembilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
